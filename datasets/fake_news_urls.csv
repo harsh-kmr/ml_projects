@@ -1,3 +1,4 @@
 title,url
 train_data_url,https://drive.google.com/uc?id=19nUHaZqKSA4Q_N0f96v3XHMBd6ADxuvN&export=download
-test_data_url,https://drive.google.com/uc?id=1bvSmuMl33ZmF4KNc5Wm7kZFLPWRSzw8O&export=download
+x_test_data_url,https://drive.google.com/uc?id=1bvSmuMl33ZmF4KNc5Wm7kZFLPWRSzw8O&export=download
+y_test_data_url,https://drive.google.com/uc?id=1-wVSOT7RXwGkzmMER3P8HW67O8JzFiOM&export=download
